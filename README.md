@@ -16,6 +16,6 @@ The above functions are written to first identify pixel centroid by computing mi
 
 All these functions are similar except 2*2 grid averaging which involves an additional step of computing the best four pixels to average based on the quadrant to which the floating point (u,v) belongs. 
 
-Inputs: pixel coordinates (u,v) & (x,y,z) 3d coordinates that each pixel of defined resolution can point to.
+Inputs: pixel coordinates (u,v) & (x,y,z) 3d coordinates that each pixel of defined resolution && frame point to.
 
 Outputs: Average values of (x,y,z) 3d coordinates according to the pattern of interest.
