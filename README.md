@@ -1,4 +1,4 @@
-# Lidar_PixelAveraging
+# Pixel Averaging
 ## Pixel averaging functions
 
 Computer vision programs for estimating 3d coordinates would often result in floating point (u,v) coordinates. 
